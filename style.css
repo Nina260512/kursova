@@ -1,0 +1,38 @@
+body{
+	padding:0;
+	margin:0;
+	background-image:url(fon.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+h1{
+color:white;	
+font-family:Monotype Corsiva;	
+}
+hr{
+width:500px;
+height:5px;	
+background-color:blue;
+}
+
+
+.menu{
+list-style:none;
+}
+li{background-color: yellow;
+display: inline-block;
+width: 80px;
+height:25px;
+padding: auto ,auto;
+border: 2px solid black;
+
+}
+a{
+text-decoration:none;
+font-family:Monotype Corsiva;
+color: rgb(0, 0, 0);
+}
+
+
+
+
